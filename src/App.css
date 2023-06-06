@@ -1,0 +1,47 @@
+.whole{
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+
+input{
+  height: 60px;
+  margin: 50px 20px;
+  width: 300px;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 10px;
+}
+button{
+  height: 60px;
+  margin: 50px 20px;
+  width: 150px;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 10px;
+}
+.boxglass{
+  padding: 20px 0px;
+  width: 200px;
+  margin: 0px 0px;
+  background-color: rgb(127, 190, 214,0.6);
+  border-radius: 10px;
+  text-align: center;
+ font-size: 1.5rem;
+ font-weight: bold;
+ color: white;
+}
+.alldetails{
+  padding: 20px 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.alldetails2{
+  display: flex;
+  justify-content:center;
+  flex-wrap: wrap;
+}
